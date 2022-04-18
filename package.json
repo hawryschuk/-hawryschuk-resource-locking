@@ -16,7 +16,9 @@
   },
   "author": "Hawryschuk, Alexander",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "aws-sdk": "^2.635.0"
+  },
   "peerDependencies": {
     "aws-sdk": "^2.635.0"
   },
